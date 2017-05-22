@@ -7,6 +7,7 @@ for license see the LICENSE file (GNU General Public License v3.0)
 ### how it works:
 **1. divide**
 	divide the array into subarrays by cutting them in two halfes until the subarrays include only one object
+
 **2. conquer**
 	put the subarrays into the rootarray by sorting them
 	
