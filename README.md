@@ -34,7 +34,7 @@ for license see the LICENSE file (GNU General Public License v3.0)
 1.	save the object of iteration
 2.	go through the array backwards until the next object isn't smaller than the saved one or you are inspecting the first object of the array
 
-	overwrite the object of iteration with index of iteration with the object of
+	-> overwrite the object of iteration with index of iteration with the object of
 3.	overwrite this object with the saved one
 		
 # Binarytreesort (in work yet)
