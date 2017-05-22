@@ -1,5 +1,6 @@
 # sortAlgorithm
 this repo will show you some implementions of well known sorting algorithms
+
 for license see the LICENSE file (GNU General Public License v3.0)
 
 # Mergesort
