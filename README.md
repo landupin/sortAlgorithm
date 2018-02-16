@@ -38,7 +38,7 @@ for license see the LICENSE file (GNU General Public License v3.0)
 	->	overwrite the object of iteration with index of iteration with the object of
 3.	overwrite this object with the saved one
 		
-# Binarytreesort (in work yet)
+# Binarytreesort
 
 ### how it works:
 **1. inserting the numbers out of the array into a binary tree**
@@ -54,7 +54,7 @@ for license see the LICENSE file (GNU General Public License v3.0)
 3.	right subtree
 4.	start again with root = current inspected node
 
-# Swapsort (in work yet)
+# Swapsort
 
 ### how it works:
 1. start with the first element of the array
